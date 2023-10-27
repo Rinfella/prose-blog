@@ -1,0 +1,14 @@
+/* _styles.css */
+#post {
+    color: white;
+}
+
+#blog {
+    color: white;
+}
+#link {
+    text-decoration: none;
+}
+#link:hover {
+    color: skyblue;
+}
