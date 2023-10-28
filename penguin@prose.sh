@@ -12,9 +12,7 @@ Free License pawh hi chi hrang hrang a awm ve a, tuna a lar zual deuh te chu Apa
 Computer leh Programming lam tui mi te tan chuan Linux hi operating system tangkai tak ani.
 A free avang leh kan duh duh dana a program code kan tih danglam theih bik avang hian a elpui dang Microsoft Windows te leh Apple MacOS te aiin Programmer tamtak chuan an duh zawk thin reng ani.
 
----
 ## Part 1: Linux chu enge? Windows nen enge a danglam na?
----
 Linux chu kan sawi tawh ang khan open-source kernel a ni a.
 Kernel hna thawh ber chu kan computer software leh hardware inbiak pawh na atana thawk palai ani mai ang chu.
 A hardware chu kan duh duh ani theia, Laptop emaw, Personal Computer (PC) pangai emaw pawh a ni thei.
@@ -29,27 +27,21 @@ Open-source anih vang hian virus tih vel lakah hian a him zawk asin. A chhan chu
 Closed-source operating systems: Windows tih vel te ai chuan ala him tho tho zawk tihna a nih chu. Windows te chu a program code pawh tuman kan hmu thei lova (Microsoft Engineer kan ni te anih ngawt loh chuan), chuvangin eng emaw code rinhlelhawm deuh pawh lo awm ta se a engineer ten an chhui chhuah loh chuan engmah kan hmu/hre ve dawn lova, fix ano ngai dawnlo tihna anih chu.
 Hetia mipui in tel khawm in an enkawl anih avang hian a changtlung em em a, kan hman na tur leh mamawh dan a zir in service leh applications vel pawh an update ve zela, a kimchang ve tawh hle a ni.
 
-
----
 ## Part 2: Linux chu install ve duh ta ila engtin nge?
 ---
 ### Ngatinge Linux chu ka hman ang?
----
 Linux hman nawm em em nachhan pakhat chu kan distribution duh duh kan thlang thei hi ani.
 Windows nen bawk han khaikhin leh thin ila, Windows chu chi khat chiah a awma, version hrang hrang a awm ani maia.
 Linux erawh chu distribution hrang hrang hi mi hrang hrang in an siama, i hman duh dan leh hman nuam i tih dan a zirin i distribution (distro) duh duh i install tawh mai dawn ani.
 Linux la install ngai miah lo i nih chuan Ubuntu 22.04 leh PopOS 22.04 te hi ka kawh hmuh hmsa ber ang che u. A awlsam a, hmang tantir tan chuan mamawh tlangpui chu a awm bawk.
 Khimi pahnih khi chu a common zualpui leh hmang thar te tana hman awlsam anih avanga rawn chhawp chhuak mai mai ka ni a, distro dang 100 chuang thlan tur a awma, kha chu mimal a lo in en kual chi ani a duh khirh deuh tan.
 
----
 ### Install ve chhin dawn ila - 
----
 A install dan hi a har tehchiam lova, Windows i load tha thiam anih chuan i thiam sa ani nghal mai.
 I distribution (distro) duh ber kha i Google tawp anga, a .iso file i download ang. Ubuntu lo install duh ta la, Ubuntu 22.04 iso file kah i download ang.
 Tichuan bootable USB kan siam anga, Ubuntu iso file kha i copy lut anga operating system dang (Windows) te anga install ve kha ani tawh mai.
 [Learn Linux TV](https://www.youtube.com/watch?v=f_8cD4HFvhc) Ubuntu install tutorial hi duh chuan guide atan a en theih bawk e.
 
----
 ## Part 3: Linux File System awmdan:
 ---
 Linux ah chuan engkim hi file vek ani a, kan system settings zang zawng nen folder in chherchhuan hrang hrang ah file hran hran ah a awm vek a.
@@ -58,7 +50,6 @@ Kan file system bulthut ber chu `/` hi ani a, amah tawp hi engkim bul ani.
 `/` atang hian engkim a peng hranga, folder hrang hrang awmin heng te hian system files leh a hmangtu (user) files te a thliar hrang leh vek bawk ani.
 [tldp.org](https://tldp.org/LDP/intro-linux/html/sect_03_01.html) ah hian Linux file system chungchang ka sawi aia fiah leh kimchang zawkin en theihin a awm bawk e.
 
----
 ## Part4: Linux Command Line Interface (CLI):
 ---
 Command Line Interface (CLI) chu Windows a Command Prompt (cmd) ang kha a ni maia, Terminal te an tia Shell te an tia, hming hran ni mahse khami command chhut na window an sawina vek tho kha ani.
@@ -67,9 +58,7 @@ CLI ham thian a ngaih nachhan chu, engkim hi mouse hmangin click thei vek mah la
 File/Folder siam, delete, move, rename, etc. te, system file han edit te, a tam mai kan sawi vek seng lo.
 Command ho lam angreng tak, pawimawh tak tak si ho atangin han en tan ila:
 
----
 ### Basic Terminal (CLI) Commands:
----
 **ls**
       : Hei hi 'list' tihna a ni maia, kan directory (folder) awmna a file leh folder awm zawng zawng list thlak na a ni. 
 **pwd**
@@ -151,7 +140,7 @@ Command ho lam angreng tak, pawimawh tak tak si ho atangin han en tan ila:
 ---
 
 ## Ngati nge Linux hi i rawn fak chiam chiam? Hman leh tun ah enge danglam?
----
+
 ### A hma chuan:
 ---
 Linux hian hardware mil loh a nei lova, computer hmanlai ber leh tunlai ber ah pawh a install theih vek a ni. A rintlak em em a, Windows te anga laklawh taka update thut thut te, Blue Screen of Death ang te kha a awm ve ngai lova, chuvang tak chuan ani server atan pawh an hman nasat chhan.
@@ -161,7 +150,6 @@ A hma chuan mouse te kha la awm ve hek lo. Keyboard vekin thil tih a ngaia. Term
 A hmang thang lo tan chuan command zawng zawng hriat ngaihna awm heklo, an operating system hman thiamloh hman ai chuan Windows install mai kha mi tamtak tan chuan thil tih awm zawk reng ani.
 Computer engineer emaw technician i nih loh chuan Linux hi khatih hunali kha chuan hman ngaihna a awmlo.
 
----
 ### Tunah ve thung:
 ---
 Tunah he blog ka ziah lai (Oct 2023) hi chuan Linux pawhin hma a sawn nasa tawh khawp a, Ubuntu 23.10 te hial alo chhuak ta a. A hmangtu (user) te thusawi an ngaithla a, Graphical User Interface (GUI) nalh tak tak an rawn neia, a lan dan ringawt pawh analhsawt hle ani. A then te phei chu Windows aia nalh tak tak hi an tam ania.
@@ -174,7 +162,6 @@ Linux khawvel hi chu a zau lutuka, Terminal commands ringawt pawh hi kan en peih
 Hetiang operating system (Linux) te hi chu phone thar neih nag deuh hian ka tehkhin thin. I khawih tam poh leh a chungchang i hre chiang telh telh ang.
 Hman peih, khawih peih te hi a ngai ve. Photoshop te pawh mi in ngati nge a thiam em em kan tih chuan  kha Photoshop Software kha a hmang tam tihna a ni mai. Thlalak ho te te edit atangin a inzir a, khawh tam na na na chuan thiambelh pawh hi kan lo nei nge nge zel.
 
----
 ## Ka Linux experience:
 ---
 Ka Linux distro install hmasak ber chu Ubuntu 20.04 ani a, chuan a hnu ah 22.04 ah ka in upgrade a. Ubuntu hi Debian operating system bechhan a siam a ni.
@@ -191,7 +178,6 @@ Distro i duh duh kha i hmang kual thei a, mahse hriat tur erawh chu, distro then
 khatiang puihna i dawn theihna tur community support te kha alo thatloh hlauh phei chuan buaina i tawh palh chuan a buaithlak reuh phian zel ania.
 Debian based:- Debian 12 Bookworm, Ubuntu, PopOS tih vel hi a hmang tir tan chuan bul tan na atan hman a fin thlak ang.
 
----
 ## Tlipna:
 ---
 He blog ka ziah dawn hian rough taka han ziah chhin pawh a awm lem lova, ka ngaihtuah chhuah fuh ang ang ka rawn phawrh deuh pawp pawp mai a ni a, in kal thelh deuh leh chianglo ruai te pawh a awm ang, minlo hriatthiam hram ka beisei.
