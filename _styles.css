@@ -6,9 +6,10 @@
 #blog {
     color: white;
 }
-#link {
+#links {
     text-decoration: none;
-}
-#link:hover {
     color: skyblue;
+}
+#links:hover {
+    color: blue;
 }
